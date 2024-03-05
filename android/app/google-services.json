@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777372145776",
+    "project_id": "xwave-de2ea",
+    "storage_bucket": "xwave-de2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777372145776:android:c8410f914a625564937cb5",
+        "android_client_info": {
+          "package_name": "com.example.x_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJVlsZZ2TOkaDvGW8DhzUI757IFHj-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
